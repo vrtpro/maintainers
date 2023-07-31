@@ -1,4 +1,4 @@
-[![Banner](https://cdn.upload.systems/uploads/BLcM5v5i.webp)](https://github.com/orgs/vrtpro/peoplehttps://github.com/orgs/vrtpro/people)
+[![Banner](https://cdn.upload.systems/uploads/BLcM5v5i.webp)](https://github.com/orgs/vrtpro/people)
 
 Listing all maintainers that maintains one, two, or more repositories on this organization.
 
